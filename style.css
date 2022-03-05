@@ -1,0 +1,24 @@
+body
+{
+    color: honeydew;
+    background-color: dimgrey;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera
+{
+    border: 2px dashed burlywood;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+color: cyan;
+font-size: 20px;
+}
